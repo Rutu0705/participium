@@ -10,6 +10,7 @@
 **Participium** is a modern web-based platform designed to facilitate citizen engagement with municipal services. The application enables residents to report urban issues (such as broken streetlights, potholes, garbage collection problems, etc.) directly to the appropriate municipal offices through an intuitive map-based interface.
 
 Developed as part of the Software Engineering 2 course at **Politecnico di Torino**, this project demonstrates full-stack development practices, RESTful API design, and containerized deployment strategies.
+   
    🎥 **Demo video:** [Watch on YouTube](https://www.youtube.com/watch?v=kEtnV39DVfc)
 ---
 
